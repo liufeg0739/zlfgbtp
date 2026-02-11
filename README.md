@@ -27,3 +27,4 @@ ztestlfg('Rainbow');
 [daviddm-url]: https://david-dm.org//ztestlfg
 [coveralls-image]: https://coveralls.io/repos//ztestlfg/badge.svg
 [coveralls-url]: https://coveralls.io/r//ztestlfg
+  connect to gitrepository to track changes and manage versions
